@@ -1,0 +1,14 @@
+{
+  "name": "projeto_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node exemplo_faker.js"    
+  },
+  "author": "Leonardo",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+}
